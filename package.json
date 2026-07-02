@@ -1,0 +1,25 @@
+{
+  "name": "probknow-nanopub-builders",
+  "version": "0.1.0",
+  "description": "Auditable triple-construction logic for ProbKnow nanopublications. Signing lives in nanopub-js.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "example": "tsx reproduce-example.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fractastical/probknow-nanopub-builders.git"
+  },
+  "keywords": [
+    "nanopublication",
+    "rdf",
+    "trusty-uri",
+    "provenance",
+    "probknow"
+  ]
+}
